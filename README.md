@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### dependencies installed --portfolio project 30/07/2024
+Chakra UI - npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
+Formik - npm install formik --save
+Yup - npm install --save yup
+Font Awesome - npm i --save @fortawesome/fontawesome-svg-core
+SVG Icons - 
+npm install --save @fortawesome/free-solid-svg-icons
+npm install --save @fortawesome/react-fontawesome  
+npm i --save @fortawesome/free-brands-svg-icons 
+
+
+
+
+
